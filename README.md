@@ -21,5 +21,6 @@
 ## String
 |  |
 | ------- |
+| [2819-remove-trailing-zeros-from-a-string](https://github.com/mbika/leetCodeProblemSolving/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/mbika/leetCodeProblemSolving/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 <!---LeetCode Topics End-->
